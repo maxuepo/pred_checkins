@@ -1,0 +1,11 @@
+---
+title: "Report_Kaggle"
+author: "Xuepo Ma"
+date: "Wednesday, May 11, 2016"
+output: html_document
+---
+
+# Introduction
+
+In this competition, you are going to predict which business a user is checking into based on their location, accuracy, and timestamp. 
+
